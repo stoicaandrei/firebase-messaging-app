@@ -4,14 +4,14 @@ import 'firebase/firestore';
 import 'firebase/analytics';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDFGL3yCnlAJGbbVhtsqOCGdYnpQ73joG0',
-  authDomain: 'test-react-firebase-12109.firebaseapp.com',
-  databaseURL: 'https://test-react-firebase-12109.firebaseio.com',
-  projectId: 'test-react-firebase-12109',
-  storageBucket: 'test-react-firebase-12109.appspot.com',
-  messagingSenderId: '497832722708',
-  appId: '1:497832722708:web:ce0488cfe970133ee10201',
-  measurementId: 'G-93HEN4S6VL',
+  apiKey: "AIzaSyD8I-faRNzwuT9nkEBpE6-HJZlNufKVJ2A",
+  authDomain: "messaging-app-ba24b.firebaseapp.com",
+  databaseURL: "https://messaging-app-ba24b.firebaseio.com",
+  projectId: "messaging-app-ba24b",
+  storageBucket: "messaging-app-ba24b.appspot.com",
+  messagingSenderId: "915931001445",
+  appId: "1:915931001445:web:8a8f23550ec041b097cc8c",
+  measurementId: "G-Q5J078XP20"
 };
 
 // Initialize Firebase
